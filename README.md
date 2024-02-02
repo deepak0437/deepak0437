@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepak0437
+- 👋 Hi, I’m Deepak 
 - 👀 I’m Software Developer Engineer
 - 🌱 I’m currently working On Pharmeasy Company.
 - 💞️ I’m looking to collaborate on ...
